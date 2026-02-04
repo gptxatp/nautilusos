@@ -24,6 +24,11 @@
     src: url('font/fontbi.ttf');
 }
 
+@font-face {
+    font-family: squid;
+    src: url('font/GameOfSquids-1GMVL.ttf');
+}
+
 :root {
     --accent: #7dd3c0;
     --accent-hover: #6bc4b0;
